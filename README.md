@@ -2,14 +2,20 @@
 
 TextMate themes based on color schemes created while designing UIs. 
 
- ## Deep Blue ([download](/deep_blue.tmTheme))
+ ## Deep Blue
+
+Get the [deep_blue.tmTheme file](/deep_blue.tmTheme?raw=true).
 
 ![Deep Blue Preview](/deep_blue.png?raw=true "Deep Blue Preview")
 
-## Teal Sunset ([download](/teal_sunset.tmTheme))
+## Teal Sunset
 
-![Teal Sunset Preview](/deep_blue.png?raw=true "Teal Sunset Preview")
+Get the [teal_sunset.tmTheme file](/teal_sunset.tmTheme?raw=true).
 
-## Summer Peach ([download](/summer_peach.tmTheme))
+![Teal Sunset Preview](/teal_sunset.png?raw=true "Teal Sunset Preview")
 
-![Summer Peach Preview](/deep_blue.png?raw=true "Summer Peach Preview")
+## Summer Peach
+
+Get the [summer_peach.tmTheme file](/summer_peach.tmTheme?raw=true).
+
+![Summer Peach Preview](/summer_peach.png?raw=true "Summer Peach Preview")
