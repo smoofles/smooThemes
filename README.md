@@ -25,3 +25,9 @@ Download: [summer_peach.tmTheme](/summer_peach.tmTheme?raw=true)
 Download: [elven_forest.tmTheme](/elven_forest.tmTheme?raw=true)
 
 ![Elven Forest Preview](/elven_forest.png?raw=true "Elven Forest Preview")
+
+## Smoofles Dark Cold
+
+Download: [smoofles_dark_cold.tmTheme](/smoofles_dark_cold.tmTheme?raw=true)
+
+![Smoofles Dark Cold Preview](/smoofles_dark_cold.png?raw=true "Smoofles Dark Cold Preview")
